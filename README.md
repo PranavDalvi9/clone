@@ -29,21 +29,25 @@ Project Apk Link - [Project Apk Link](https://drive.google.com/file/d/13PBajBQTZ
 
 ## Home Screen Active Tab
 
-<img width="25%" height="25%" alt="image" src="https://github.com/pranav-chace/clone-/assets/109061714/43072329-2537-427d-abf8-a1cd8ab65feb">
+<img width="25%" height="25%" alt="image" src="https://github.com/PranavDalvi9/clone/assets/96105012/5e239873-4236-4b3a-96d3-44412d2515cc">
 
 
 ## Orders Screen
 
-<img width="25%" height="25%" alt="image" src="https://github.com/pranav-chace/clone-/assets/109061714/05230acc-c2b0-447d-ab1b-c8b0adf0fb54">
+<img width="25%" height="25%" alt="image" src="https://github.com/PranavDalvi9/clone/assets/96105012/e99a70c1-dfe2-495a-8c4b-b847ed432ebe">
 
 ## Confirm Orders Modals
 
-<img width="25%" height="25%" alt="image" src="https://github.com/pranav-chace/clone-/assets/109061714/cbf00d2d-dcb7-44e1-9b73-160ab249be0e">
+<img width="25%" height="25%" alt="image" src="https://github.com/PranavDalvi9/clone/assets/96105012/57665374-5bdd-487a-9130-945f0fd09db0">
 
 
 ## Confirm Orders Modals
 
-<img width="25%" height="25%" alt="image" src="https://github.com/pranav-chace/clone-/assets/109061714/492e9358-1ba7-443a-a52f-153be2120d38">
+<img width="25%" height="25%" alt="image" src="https://github.com/PranavDalvi9/clone/assets/96105012/8e4af513-0643-450a-97be-76004ecdb96a">
+
+
+
+https://github.com/PranavDalvi9/clone/assets/96105012/56eaa54b-6e49-4602-8b53-e1dc722c3777
 
 
 
@@ -52,7 +56,10 @@ Project Apk Link - [Project Apk Link](https://drive.google.com/file/d/13PBajBQTZ
 
 
 
-https://github.com/pranav-chace/clone-/assets/109061714/d5dc5c20-b560-45c7-b3cc-4bd134da20cc
+
+
+
+
 
 
 
