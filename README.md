@@ -14,7 +14,7 @@
 
 Pranav Dalvi - [My Linkedin](https://www.linkedin.com/in/pranavsanjaydalvi/)
 
-Project Link - [Project Repo]()
+Project Link - [Project Repo](https://github.com/PranavDalvi9/clone)
 
 Project Demo Viedo - [Project Demo Viedo](https://drive.google.com/file/d/1i5YTci1XqZS928A7thGkUw1eXgWU9xsi/view?usp=sharing)
 
