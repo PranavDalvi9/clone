@@ -29,7 +29,7 @@ Project Apk Link - [Project Apk Link](https://drive.google.com/file/d/13PBajBQTZ
 
 ## Home Screen Active Tab
 
-<img width="25%" height="25%" alt="image" src="https://github.com/PranavDalvi9/clone/assets/96105012/5e239873-4236-4b3a-96d3-44412d2515cc">
+<img width="25%" height="25%" alt="image" src="https://github.com/PranavDalvi9/clone/assets/96105012/9d941969-ed94-4734-a7e5-b6668cec52db">
 
 
 ## Orders Screen
@@ -48,6 +48,7 @@ Project Apk Link - [Project Apk Link](https://drive.google.com/file/d/13PBajBQTZ
 
 
 https://github.com/PranavDalvi9/clone/assets/96105012/56eaa54b-6e49-4602-8b53-e1dc722c3777
+
 
 
 
